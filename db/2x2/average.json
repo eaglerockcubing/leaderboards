@@ -1,4 +1,29 @@
 {
-    "last_updated": 34,
-    "leaderboard": []
+    "last_updated": 1673811807630,
+    "leaderboard": [
+        {
+            "name": "Jacob Cheng",
+            "time": "4.73",
+            "date": "January 14, 2023",
+            "solves": [
+                { "time": "5.20", "trimmed": false, "scramble": "F2 U2 F' U' R2 F R U F" },
+                { "time": "6.20", "trimmed": true, "scramble": "R F2 R F U' R2 F U2 F'" },
+                { "time": "3.50", "trimmed": true, "scramble": "R' F2 U' R' U' R2 F U' F2 U2" },
+                { "time": "4.80", "trimmed": false, "scramble": "F R' U F' R U2 F R' U' F'" },
+                { "time": "4.20", "trimmed": false, "scramble": "R2 U' R U' R U R2 U2 R2" }
+            ]
+        },
+        {
+            "name": "Jackson Porter",
+            "time": "7.57",
+            "date": "January 14, 2023",
+            "solves": [
+                { "time": "4.53", "trimmed": true, "scramble": "U' R2 F' U R U2 F2 R U'" },
+                { "time": "8.20", "trimmed": false, "scramble": "R U2 R U' F' U' F' R2 F'" },
+                { "time": "8.34", "trimmed": false, "scramble": "R' U' R2 F U' F R' U2 R'" },
+                { "time": "6.16", "trimmed": false, "scramble": "F U' R U' R F' R U2 R2" },
+                { "time": "9.76", "trimmed": true, "scramble": "F U F2 U R F U R2 F2" }
+            ]
+        }
+    ]
 }

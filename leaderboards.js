@@ -26,7 +26,7 @@ function getDateString(date) {
         'December'
     ]
 
-    return `${days[d.getDay()]}, ${months[d.getMonth()-1]} ${d.getDate()}, ${d.getFullYear()} at ${d.getHours() > 12 ? d.getHours()-12 : d.getHours()}:${d.getMinutes()} ${d.getHours() > 12 ? "PM" : "AM"}`;
+    return `${days[d.getDay()]}, ${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()} at ${d.getHours() > 12 ? d.getHours()-12 : d.getHours()}:${d.getMinutes()} ${d.getHours() > 12 ? "PM" : "AM"}`;
 }
 
 function fetchLeaderboard(url, average) {
@@ -48,7 +48,6 @@ function fetchLeaderboard(url, average) {
 
         document.querySelector('tbody.leaderboard').innerHTML = leaderboardHTML.join('\n');
 
-        console.log(leaderboard);
     })
 }
 

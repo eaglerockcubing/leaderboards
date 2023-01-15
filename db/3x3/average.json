@@ -1,5 +1,5 @@
 {
-    "last_updated": 1669767556965,
+    "last_updated": 1673813143465,
     "leaderboard": [
         {
             "name": "Jacob Cheng",
@@ -15,14 +15,14 @@
         },
         {
             "name": "Jackson Porter",
-            "time": "25.11",
-            "date": "November 29, 2022",
+            "time": "24.97",
+            "date": "Decmber 28, 2022",
             "solves": [
-                { "time": "25.85", "trimmed": false, "scramble": "F2 U' R2 D U B2 U B2 L2 U F2 R2 F' L U F' L2 U2 B2 U2 F'" },
-                { "time": "21.93", "trimmed": true, "scramble": "F2 L' D' R' L F2 L' U R2 F2 R2 U2 L2 F' L2 F' R2 U2 F R2" },
-                { "time": "24.98", "trimmed": false, "scramble": "F2 L B R F' U2 B2 R U R U2 R F2 L' U2 B2 R' D2 L2 " },
-                { "time": "26.46", "trimmed": true, "scramble": "R' D' F L2 B2 F2 U' L2 D U2 R2 B2 U2 F U2 L F' D2 F' L'" },
-                { "time": "24.50", "trimmed": false, "scramble": "F' D L' F D' L' B2 R L2 D B2 R2 L2 D F2 B2 L2 U B" }
+                { "time": "27.38", "trimmed": false, "scramble": "U2 R D L2 D' L2 D B2 U L2 D' B2 U' B' L F D' L2 R' B D'" },
+                { "time": "23.83", "trimmed": false, "scramble": "U B2 U F D' L B R F B2 D' R2 L2 U B2 U L2 D' L2 F2 D'" },
+                { "time": "32.88", "trimmed": true, "scramble": "B2 L B L2 U2 F D2 U2 B' U2 F' D2 F L' D R B L F D' B'" },
+                { "time": "22.86", "trimmed": true, "scramble": "L2 D2 R2 B2 U' B2 D B2 D2 R2 B' L' B2 D U L' R2 D' B" },
+                { "time": "23.69", "trimmed": false, "scramble": "B' R F' U L' D' L2 F' R B2 L2 B2 U2 B2 D R2 U2 L2 D' B2" }
             ]
         },
         {
