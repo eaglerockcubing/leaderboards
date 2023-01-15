@@ -30,7 +30,7 @@ function getDateString(date) {
 }
 
 function fetchLeaderboard(url, average) {
-    fetch('/db/' + url)
+    fetch('../db/' + url)
     .then(res => res.json())
     .then(leaderboard => {
         // the last updated date
