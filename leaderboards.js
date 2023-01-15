@@ -1,3 +1,9 @@
+function parseDateMinutes(date) {
+    if (date.getMinutes() < 10){
+        return "0" + date.getMinutes().toString();
+    } else return date.getMinutes().toString();
+}
+
 function getDateString(date) {
     const d = new Date(date);
 
@@ -26,7 +32,7 @@ function getDateString(date) {
         'December'
     ]
 
-    return `${days[d.getDay()]}, ${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()} at ${d.getHours() > 12 ? d.getHours()-12 : d.getHours()}:${d.getMinutes()} ${d.getHours() > 12 ? "PM" : "AM"}`;
+    return `${days[d.getDay()]}, ${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()} at ${d.getHours() > 12 ? d.getHours()-12 : d.getHours()}:${parseDateMinutes(d)} ${d.getHours() > 11 ? "PM" : "AM"}`;
 }
 
 function fetchLeaderboard(url, average) {
