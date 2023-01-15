@@ -1,0 +1,41 @@
+{
+    "last_updated": 1669767556965,
+    "leaderboard": [
+        {
+            "name": "Jacob Cheng",
+            "time": "24.36",
+            "date": "November 30, 2022",
+            "solves": [
+                { "time": "21.03", "trimmed": false, "scramble": "B F2 R2 U' R2 D B2 L2 D2 L' D2 L' F' L' B U R' F' D2" },
+                { "time": "21.01", "trimmed": true, "scramble": "B D R' B2 U L2 B R D2 B' R2 B' U2 R2 B U2 L2 B R2 L2" },
+                { "time": "25.73", "trimmed": false, "scramble": "D2 F' R' U' L' B L' F2 U D2 R B2 D2 R2 D2 R U2 D2 F2 U2" },
+                { "time": "29.84", "trimmed": true, "scramble": "R2 F2 D F2 L2 R2 D F2 U R2 U2 F U' B' D2 L' U2 R2 B2 D" },
+                { "time": "26.32", "trimmed": false, "scramble": "R2 D2 R' B2 R' F2 L2 D2 R' D2 L U2 D' L2 B' U L B' R2 D B2" }
+            ]
+        },
+        {
+            "name": "Jackson Porter",
+            "time": "25.11",
+            "date": "November 29, 2022",
+            "solves": [
+                { "time": "25.85", "trimmed": false, "scramble": "F2 U' R2 D U B2 U B2 L2 U F2 R2 F' L U F' L2 U2 B2 U2 F'" },
+                { "time": "21.93", "trimmed": true, "scramble": "F2 L' D' R' L F2 L' U R2 F2 R2 U2 L2 F' L2 F' R2 U2 F R2" },
+                { "time": "24.98", "trimmed": false, "scramble": "F2 L B R F' U2 B2 R U R U2 R F2 L' U2 B2 R' D2 L2 " },
+                { "time": "26.46", "trimmed": true, "scramble": "R' D' F L2 B2 F2 U' L2 D U2 R2 B2 U2 F U2 L F' D2 F' L'" },
+                { "time": "24.50", "trimmed": false, "scramble": "F' D L' F D' L' B2 R L2 D B2 R2 L2 D F2 B2 L2 U B" }
+            ]
+        },
+        {
+            "name": "Martin Berndt",
+            "time": "56.93",
+            "date": "November 21, 2022",
+            "solves": [
+                { "time": "57.55", "trimmed": false, "scramble": "B L2 F2 R2 D2 L2 R2 B' D2 F2 R2 D2 L D2 R D B2 D L2 D' F'" },
+                { "time": "DNF(48.04)", "trimmed": true, "scramble": "L2 R2 D2 L2 F R2 F2 R2 B' L2 F2 U F U R B2 U' L F' L" },
+                { "time": "56.41", "trimmed": false, "scramble": "R2 F2 U R' F L U' R' D2 B2 R2 D B2 D R2 L2 F2 U2 F2 B D2" },
+                { "time": "55.78", "trimmed": true, "scramble": "L2 D2 U2 F2 L F2 R B2 L' U2 D' R2 D U2 B U2 R' D'" },
+                { "time": "56.83", "trimmed": false, "scramble": "R F L2 D' F2 R2 U2 R2 U B2 R2 D F D' F' L U B' U2" }
+            ]
+        }
+    ]
+}

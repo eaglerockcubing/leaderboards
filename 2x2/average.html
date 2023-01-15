@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="https://eaglerockcubing.github.io/media/erc_logo.png" type="image/png">
+    <link rel="stylesheet" href="https://eaglerockcubing.github.io/style.css">
+    <script defer src="https://eaglerockcubing.github.io/script.js"></script>
+
+    <link rel="stylesheet" href="/leaderboards.css">
+    <script src="/leaderboards.js"></script>
+
+    <title>2x2 Average Leaderboard - Eagle Rock Cubing</title>
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Eagle Rock Cubing Website">
+    <meta property="og:title" content="Eagle Rock Cubing">
+    <meta property="og:description" content="The Cubing club at Eagle Rock High School.">
+    <meta property="og:image" content="https://eaglerockcubing.github.io/media/erc_logo.png">
+</head>
+<body onload="fetchLeaderboard('2x2/average.json', true); loadNavigation(); loadFooter();">
+    <div class="container">
+        <h1>2x2 Average of 5 Leaderboard</h1>
+
+        <p>Last updated: <span class="last-updated"></span></p>
+
+        <p><i>No solves outside of monthly competitions will be stored on this leaderboard unless sufficient video evidence is provided, to prevent false solves.</i></p>
+
+
+        <div class="results-selector" style="display: inline-flex">
+
+            <div style="display: inline-block; margin-bottom: 0; vertical-align: top; padding-right: 20px;">
+                <h3>Type</h3>
+
+                <a href="/2x2/single.html" class="button">Single</a>
+                <a href="/2x2/average.html" class="button selected">Average</a>
+
+            </div>
+
+            <div style="display: inline-block; margin-bottom: 0; vertical-align: top;">
+                <h3 style="padding-bottom: 3px;">Events</h3>
+
+                <div style="padding-bottom: 10px;">
+
+                    <div class="tooltip">
+                        <a href="/3x3/average.html" class="cubing-icon event-333"></a>
+                        <span class="tooltiptext">3x3 Cube</span>
+                    </div>
+    
+                    <div class="tooltip">
+                        <a href="/2x2/average.html" class="cubing-icon event-222 selected"></a>
+                        <span class="tooltiptext">2x2 Cube</span>
+                    </div>
+    
+                    <div class="tooltip">
+                        <a href="/4x4/average.html" class="cubing-icon event-444"></a>
+                        <span class="tooltiptext">4x4 Cube</span>
+                    </div>
+    
+                    <div class="tooltip">
+                        <a href="/3x3onehand/average.html" class="cubing-icon event-333onehand"></a>
+                        <span class="tooltiptext">3x3 One-Handed</span>
+                    </div>
+
+                </div>
+                
+            </div>
+
+        </div>
+
+
+        <br>
+
+        <div style="width: 100%; overflow-y: scroll; padding: 2px;">
+
+            <table>
+                <thead>
+                    <tr>
+                        <td>#</td>
+                        <td>Name</td>
+                        <td>Time</td>
+                        <td>Date</td>
+
+                        <td>Solve 1</td>
+                        <td>Solve 2</td>
+                        <td>Solve 3</td>
+                        <td>Solve 4</td>
+                        <td>Solve 5</td>
+
+                        <td>Scrambles</td>
+                    </tr>
+                </thead>
+
+                <tbody class="leaderboard"></tbody>
+            </table>
+
+        </div>
+
+        <div style="display: none;" class="alert">
+            <h2 class="header"></h1>
+            <div class="body"></div>
+            <button class="close">Ok</button>
+        </div>
+
+    </div>
+</body>
+</html>

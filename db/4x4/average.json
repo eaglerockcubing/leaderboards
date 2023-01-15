@@ -1,0 +1,17 @@
+{
+    "last_updated": 1669434296657,
+    "leaderboard": [
+        {
+            "name": "Jackson Porter",
+            "time": "3:56.45",
+            "date": "November 26, 2022",
+            "solves": [
+                { "time": "2:59.72", "trimmed": true, "scramble": "L' D2 F' B L2 D F2 R' U B2 D2 B2 R' F2 L' B2 U2 L' B2 L' Rw2 Fw2 R' B2 U2 Fw2 B' Uw2 R2 Fw2 L2 R' Uw' F' R' U2 L' Rw Fw' Rw2 Uw D' R' U L2" },
+                { "time": "3:34.14", "trimmed": false, "scramble": "U F L B' L' F2 R' B D2 B' U F D2 L F' D' R2 F L R' D L' F' L D'" },
+                { "time": "3:51.76", "trimmed": false, "scramble": "R2 F' D' B' L' D' R U2 F' L' F2 L' U2 R' B2 U2 R D2 B2 L U2 Fw2 L' Uw2 Fw2 U' F2 Rw2 L Uw2 R' Uw2 D2 Fw Uw2 U' D2 L2 F Rw B2 Uw2 Fw' Uw Fw B" },
+                { "time": "5:17.71", "trimmed": true, "scramble": "R2 U2 L2 B' R2 B' F2 U2 F' L2 B' R' U L' B2 U L2 B' F2 L Uw2 B2 L' B' Uw2 B Rw2 U2 Fw2 R' L' F Uw' D' R D' B' L' Fw' Rw F2 L2 Fw' Uw2 R" },
+                { "time": "4:23.45", "trimmed": false, "scramble": "L2 F2 U R2 F2 D2 F2 U' F2 R2 D' B D2 R' F U' F R U' L U2 Uw2 F' L B' Uw2 F Rw2 L R' F' D2 F' Uw' F L2 U L' F2 Fw L Uw' Rw2 F Uw U" }
+            ]
+        }
+    ]
+}
