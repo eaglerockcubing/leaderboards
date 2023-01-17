@@ -1,17 +1,17 @@
 {
-    "last_updated": 1673813110604,
+    "last_updated": 1673916955777,
     "leaderboard": [
+        {
+            "name": "Jackson Porter",
+            "time": "3.37",
+            "date": "January 17, 2023",
+            "scramble": "U R2 U F' R2 F2 U' F' U' R2"
+        },
         {
             "name": "Jacob Cheng",
             "time": "3.50",
             "date": "January 14, 2023",
             "scramble": "R' F2 U' R' U' R2 F U' F2 U2"
-        },
-        {
-            "name": "Jackson Porter",
-            "time": "4.53",
-            "date": "January 14, 2023",
-            "scramble": "U' R2 F' U R U2 F2 R U'"
         }
     ]
 }
