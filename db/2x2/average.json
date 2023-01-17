@@ -15,14 +15,14 @@
         },
         {
             "name": "Jackson Porter",
-            "time": "7.57",
-            "date": "January 14, 2023",
+            "time": "6.47",
+            "date": "January 16, 2023",
             "solves": [
-                { "time": "4.53", "trimmed": true, "scramble": "U' R2 F' U R U2 F2 R U'" },
-                { "time": "8.20", "trimmed": false, "scramble": "R U2 R U' F' U' F' R2 F'" },
-                { "time": "8.34", "trimmed": false, "scramble": "R' U' R2 F U' F R' U2 R'" },
-                { "time": "6.16", "trimmed": false, "scramble": "F U' R U' R F' R U2 R2" },
-                { "time": "9.76", "trimmed": true, "scramble": "F U F2 U R F U R2 F2" }
+                { "time": "5.34", "trimmed": false, "scramble": "F2 R2 U2 R U' F' R U2 F'" },
+                { "time": "6.54", "trimmed": false, "scramble": "F U F U' F U R2 F' U F' " },
+                { "time": "5.26", "trimmed": true, "scramble": "U' F' U2 R' U2 F2 R F2 U'" },
+                { "time": "7.54", "trimmed": false, "scramble": "R U2 R' F2 R2 F' R2 U2 F'" },
+                { "time": "8.56", "trimmed": true, "scramble": "U2 F R' F' R' F U2 R' F" }
             ]
         }
     ]
