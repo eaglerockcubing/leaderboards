@@ -1,16 +1,16 @@
 {
-    "last_updated": 1673831795013,
+    "last_updated": 1675404089364,
     "leaderboard": [
         {
             "name": "Jackson Porter",
-            "time": "19.88",
-            "date": "January 31, 2023",
+            "time": "18.36",
+            "date": "February 02, 2023",
             "solves": [
-                { "time": "19.34", "trimmed": false, "scramble": "F' R2 D2 R' F2 U2 L F2 D2 L F2 R2 F' L2 U B' U' R2 B" },
-                { "time": "26.58", "trimmed": true, "scramble": "F' U2 F R2 B' R2 U2 F L2 D2 R2 B2 D L' D' F' U L' B' D' R'" },
-                { "time": "20.95", "trimmed": false, "scramble": "B' R2 D' R2 D B2 D' F2 D' L2 B2 F2 L' R' B' D L2 D' R" },
-                { "time": "19.35", "trimmed": false, "scramble": "U' R2 B R B2 D' B2 L U2 F2 L2 U2 B' U2 B R2 F2 R2 L2 B' R'" },
-                { "time": "18.61", "trimmed": true, "scramble": "B2 D2 R2 U2 L' U2 B2 U2 R2 B2 L' F L' B' D' L2 B U' B' D2" }
+                { "time": "14.65", "trimmed": true, "scramble": "L' B2 U D L D B L2 B2 R' D2 F2 L' F2 B2 L B2 L' U" },
+                { "time": "18.71", "trimmed": false, "scramble": "F' D R F' B2 R2 F R B2 R2 L2 U2 F2 D L2 D R2 B2 R2 D'" },
+                { "time": "18.91", "trimmed": false, "scramble": "R B2 D' B2 D F2 D2 L2 D' U' F' R D U B' R B D' U2" },
+                { "time": "21.71", "trimmed": true, "scramble": "L' D' L U' D2 B' R2 L F' D2 R2 B2 D2 B2 R' B2 R' L' U2 B2" },
+                { "time": "17.46", "trimmed": false, "scramble": "F2 U B U' L D' R L F R2 F2 U L2 F2 L2 D' F2 D' B2" }
             ]
         },
         {
